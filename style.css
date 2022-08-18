@@ -6,3 +6,16 @@ body {
 img {
     height:150px;
 }
+li{
+    color:darkred;
+}
+
+a {
+    color:aliceblue;
+}
+.black-text {
+    color:black;
+}
+.blue-bg {
+    color:blue;
+}
