@@ -10,7 +10,7 @@ li{
     color:darkred;
 }
 
-a {
+.whitetext {
     color:aliceblue;
 }
 .black-text {
@@ -18,4 +18,8 @@ a {
 }
 .blue-bg {
     color:blue;
+}
+
+#font-32{
+    font-size:32px;
 }
